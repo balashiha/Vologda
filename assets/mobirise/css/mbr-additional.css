@@ -1031,6 +1031,16 @@ h6,
 #msg-box5-e H3 {
   font-size: 32px;
 }
+#msg-box5-e P {
+  text-align: left;
+}
+#msg-box5-1j H3 {
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-1j P {
+  text-align: left;
+}
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
   text-align: center;
@@ -1049,7 +1059,7 @@ h6,
   font-size: 32px;
 }
 #msg-box5-i SPAN {
-  text-align: right;
+  text-align: left;
 }
 #msg-box5-l H3 {
   font-size: 32px;
@@ -1095,6 +1105,201 @@ h6,
 #extTestimonials5-1c .mbr-section-title {
   font-size: 24px;
 }
+#content5-2f .mbr-section-title,
+#content5-2f p {
+  color: #fff;
+}
+#content5-2f .mbr-section-title {
+  text-align: center;
+}
 #form1-x .form-control-label {
+  color: #232323;
+}
+
+#menu-38 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-38 .navbar-caption {
+  color: #ffffff;
+}
+#menu-38 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-38 .close-icon::before,
+#menu-38 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-38 .link,
+#menu-38 .dropdown-item {
+  color: #ffffff;
+}
+#menu-38 .link {
+  font-size: 0.75rem;
+}
+#menu-38 .dropdown-item,
+#menu-38 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-38 .link:hover,
+#menu-38 .dropdown-item:hover,
+#menu-38 .link:focus,
+#menu-38 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-38 .link[aria-expanded="true"],
+#menu-38 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-38 .nav-dropdown-sm .link:focus,
+#menu-38 .nav-dropdown-sm .link:hover,
+#menu-38 .nav-dropdown-sm .dropdown-item:focus,
+#menu-38 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-38 .navbar,
+#menu-38 .nav-dropdown-sm,
+#menu-38 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-38 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-38 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-38 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-38 .bg-color.transparent.opened .link:hover,
+#menu-38 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-38 .link[aria-expanded="true"],
+#menu-38 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header2-39 .mbr-section-title {
+  font-size: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+#header2-39 .mbr-section-text {
+  text-align: center;
+}
+#header2-39 .mbr-section-text B {
+  font-size: 24px;
+  color: #f3c649;
+}
+#header2-39 .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#extTestimonials5-3a .mbr-section-title {
+  font-size: 24px;
+}
+#header3-3b .mbr-section-title,
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3b H3 {
+  font-size: 36px;
+}
+#msg-box5-3d P {
+  text-align: left;
+}
+#msg-box5-3d H3 {
+  text-align: left;
+  font-size: 32px;
+}
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3e H3 {
+  font-size: 32px;
+}
+#msg-box5-3g H3 {
+  font-size: 32px;
+}
+#msg-box5-3g P {
+  text-align: left;
+}
+#msg-box5-3h H3 {
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-3h P {
+  text-align: left;
+}
+#header3-3j .mbr-section-title,
+#header3-3j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3j H3 {
+  font-size: 32px;
+}
+#msg-box5-3l H3 {
+  font-size: 32px;
+  text-align: left;
+}
+#msg-box5-3l P {
+  text-align: left;
+}
+#msg-box5-3o H3 {
+  font-size: 32px;
+}
+#msg-box5-3o SPAN {
+  text-align: left;
+}
+#msg-box5-3r H3 {
+  font-size: 32px;
+}
+#header3-3t .mbr-section-title,
+#header3-3t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3t H3 {
+  font-size: 32px;
+}
+#header3-3t B {
+  font-family: 'Montserrat', sans-serif;
+}
+#features3-3u P {
+  text-align: left;
+}
+#header3-3v .mbr-section-title,
+#header3-3v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3v H3 {
+  font-size: 36px;
+}
+#features1-3w .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #cccccc;
+}
+#features1-3w .mbr-cards-col:nth-child(odd) .card-title {
+  color: #2969b0;
+}
+#features1-3w .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#extFeatures10-3y .etl-icon {
+  color: #333333;
+}
+#extFeatures10-3y P {
+  color: #000000;
+}
+#extFeatures10-3y .mbr-section-title {
+  font-size: 32px;
+}
+#extTestimonials5-3z .mbr-section-title {
+  font-size: 24px;
+}
+#content5-40 .mbr-section-title,
+#content5-40 p {
+  color: #fff;
+}
+#content5-40 .mbr-section-title {
+  text-align: center;
+}
+#form1-41 .form-control-label {
   color: #232323;
 }
